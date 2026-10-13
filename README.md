@@ -1,3 +1,3 @@
 ### Technical Skills
 **Languages:** Java  
-**Tools:** IntelliJ Idea, Data Grip, Visual Studio Code
+**Tools:** IntelliJ Idea, Data Grip
