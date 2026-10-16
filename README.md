@@ -1,3 +1,3 @@
 ### Technical Skills
-**Languages:** Java  
+**Languages:** Java, PostgreSQL
 **Tools:** IntelliJ Idea, Data Grip
